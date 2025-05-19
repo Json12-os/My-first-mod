@@ -16,8 +16,7 @@
 		"cityHealth": 2,
 		"requiredTech": "Agriculture"
 		"quote": "It´s not easy to make a market, but when you have it ..."
-		"uniques": [
-		"[+1 Food] from [Ocean] tiles [in this city]",	
+		"uniques": ["[+1 Food] from [Ocean] tiles [in this city]",	
 		"[+1 Food] from [Coast] tiles [in this city]",
 		"[+1 Food] from [Grassland] tiles [in this city]",
 		"[+1 Food] from [Plains] tiles [in this city]",
@@ -25,8 +24,7 @@
 		"[+1 Food] from [Desert] tiles [in this city]",
 		"[+1 Food] from [Lakes] tiles [in this city]",
 		"[+1 Food] from [Mountain] tiles [in this city]",
-		"[+1 Food] from [Snow] tiles [in this city]",
-			
+		"[+1 Food] from [Snow] tiles [in this city]",	
 		"[+1 Production] from [Ocean] tiles [in this city]",
 		"[+1 Production] from [Coast] tiles [in this city]",
 		"[+1 Production] from [Grassland] tiles [in this city]",
@@ -35,22 +33,6 @@
 		"[+1 Production] from [Desert] tiles [in this city]",
 		"[+1 Production] from [Lakes] tiles [in this city]",
 		"[+1 Production] from [Mountain] tiles [in this city]",
-		"[+1 Production] from [Snow] tiles [in this city]",
-			
-		"[+1 Food] from [Cattle] tiles [in this city]",
-		"[+1 Food] from [Sheep] tiles [in this city]",
-		"[+1 Food] from [Deer] tiles [in this city]",
-		"[+1 Food] from [Bananas] tiles [in this city]",
-		"[+1 Food] from [Wheat] tiles [in this city]",
-		"[+1 Food] from [Stone] tiles [in this city]",
-		"[+1 Food] from [Fish] tiles [in this city]",
-			
-		"[+1 Production] from [Cattle] tiles [in this city]",
-		"[+1 Production] from [Sheep] tiles [in this city]",
-		"[+1 Production] from [Deer] tiles [in this city]",
-		"[+1 Production] from [Bananas] tiles [in this city]",
-		"[+1 Production] from [Wheat] tiles [in this city]",
-		"[+1 Production] from [Stone] tiles [in this city]", 
-		"[+1 Production] from [Fish] tiles [in this city]" ]
+		"[+1 Production] from [Snow] tiles [in this city]"]
 	}
 ]
