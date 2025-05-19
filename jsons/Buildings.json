@@ -12,7 +12,6 @@
 		"faith": 2,
 		"happiness": 2,
 		"maintenance": 4,
-		
 		"cityStrength": 2,
 		"cityHealth": 2,
 		"requiredTech": "Agriculture"
