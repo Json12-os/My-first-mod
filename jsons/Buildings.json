@@ -12,7 +12,7 @@
 		"faith": 2,
 		"happiness": 2,
 		"maintenance": 4,
-		"specialistSlots": {"Artist": 1, "Merchant": 1},
+		"specialistSlots": {"Artist": 1},
 		"cityStrength": 2,
 		"cityHealth": 2,
 		"requiredTech": "Agriculture"
