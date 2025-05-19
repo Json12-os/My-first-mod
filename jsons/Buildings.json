@@ -15,6 +15,7 @@
 		"cityStrength": 8,
 		"cityHealth": 200,
 		"specialistSlots": {"Artist": 4, "Merchant": 4, "Engineer": 4, "Scientist": 4},
+		"percentStatBonus": {"food": 33,"gold": 33, "science": 33},
 		"requiredTech": "Agriculture"
 		"quote": "It´s not easy to make a market, but when you have it ..."
 		"uniques": ["[+10]% [Food] [in all cities]",
