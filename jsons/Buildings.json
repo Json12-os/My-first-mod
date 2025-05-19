@@ -12,10 +12,52 @@
 		"faith": 2,
 		"happiness": 2,
 		"maintenance": 4,
+		"specialistSlots": {"Artist": 1, "Merchant": 1},
 		"cityStrength": 2,
 		"cityHealth": 2,
 		"requiredTech": "Agriculture"
 		"quote": "It´s not easy to make a market, but when you have it ..."
-		"uniques": ["[+10]% [Food] [in all cities]", "Destroyed when the city is captured", "[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Bananas] tiles [in this city]", "[+1 Food] from [Wheat] tiles [in this city]", "[+1 Production] from [Stone] tiles [in this city]", "[+1 Production] from [Marble] tiles [in this city]", "[+2 Food] from [Lakes] tiles [in this city]", "Can build [all] improvements at a [+100]% rate", "New [Military] units start with [15] XP [in this city]", "[+1 Food] from [Ocean] tiles [in this city]", "[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "[+1 Production] from [Cattle] tiles [in this city]", "[+1 Production] from [Horses] tiles [in this city]", "[+1 Production] from [Sheep] tiles [in this city]"]
+		"uniques": ["[+10]% [Food] [in all cities]",
+			"Destroyed when the city is captured",
+			"Can build [all] improvements at a [+25]% rate",
+			"New [Military] units start with [15] XP [in this city]",
+			"Provides 1 extra copy of each improved luxury resource near this City",
+			"[+25]% Great Person generation [in this city]",
+
+		"[+1 Food] from [Ocean] tiles [in this city]",
+		"[+1 Food] from [Coast] tiles [in this city]",
+		"[+1 Food] from [Grassland] tiles [in this city]",
+		"[+1 Food] from [Plains] tiles [in this city]",
+		"[+1 Food] from [Tundra] tiles [in this city]",
+		"[+1 Food] from [Desert] tiles [in this city]",
+		"[+1 Food] from [Lakes] tiles [in this city]",
+		"[+1 Food] from [Mountain] tiles [in this city]",
+		"[+1 Food] from [Snow] tiles [in this city]",
+		
+		"[+1 Production] from [Ocean] tiles [in this city]",
+		"[+1 Production] from [Coast] tiles [in this city]",
+		"[+1 Production] from [Grassland] tiles [in this city]",
+		"[+1 Production] from [Plains] tiles [in this city]",
+		"[+1 Production] from [Tundra] tiles [in this city]",
+		"[+1 Production] from [Desert] tiles [in this city]",
+		"[+1 Production] from [Lakes] tiles [in this city]",
+		"[+1 Production] from [Mountain] tiles [in this city]",
+		"[+1 Production] from [Snow] tiles [in this city]",
+
+		"[+1 Food] from [Cattle] tiles [in this city]",
+		"[+1 Food] from [Sheep] tiles [in this city]",
+		"[+1 Food] from [Deer] tiles [in this city]",
+		"[+1 Food] from [Bananas] tiles [in this city]",
+		"[+1 Food] from [Wheat] tiles [in this city]",
+		"[+1 Food] from [Stone] tiles [in this city]",
+		"[+1 Food] from [Fish] tiles [in this city]",
+
+		"[+1 Production] from [Cattle] tiles [in this city]",
+		"[+1 Production] from [Sheep] tiles [in this city]",
+		"[+1 Production] from [Deer] tiles [in this city]",
+		"[+1 Production] from [Bananas] tiles [in this city]",
+		"[+1 Production] from [Wheat] tiles [in this city]",
+		"[+1 Production] from [Stone] tiles [in this city]",
+		"[+1 Production] from [Fish] tiles [in this city]",
 	}
 ]
