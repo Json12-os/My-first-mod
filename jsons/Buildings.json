@@ -15,13 +15,11 @@
 		"cityStrength": 8,
 		"cityHealth": 200,
 		"specialistSlots": {"Artist": 4, "Merchant": 4, "Engineer": 4, "Scientist": 4},
-		"percentStatBonus": {"food": 33,"gold": 33, "science": 33},
+		"percentStatBonus": {"food": 33,"gold": 33, "science": 33, "production": 33},
 		"requiredTech": "Agriculture"
 		"quote": "It´s not easy to make a market, but when you have it ..."
 		"uniques": ["[+10]% [Food] [in all cities]",
 			"Destroyed when the city is captured",
-			"Can build [all] improvements at a [+25]% rate",
-			"New [Military] units start with [15] XP [in this city]",
 			"Provides 1 extra copy of each improved luxury resource near this City",
 			"[+25]% Great Person generation [in this city]",
 			"[+50]% Golden Age length", 
@@ -72,6 +70,7 @@
 		"All newly-trained [relevant] units [in this city] receive the [Barrage II] promotion",
 		"All newly-trained [relevant] units [in this city] receive the [Accuracy I] promotion",
 		"All newly-trained [relevant] units [in this city] receive the [Accuracy II] promotion",
-		"All newly-trained [relevant] units [in this city] receive the [Volley] promotion",]
+		"All newly-trained [relevant] units [in this city] receive the [Volley] promotion",
+		"[+2 Food, +2 Production] from [River] tiles [in this city]"]
 	}
 ]
